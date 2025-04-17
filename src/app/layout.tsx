@@ -39,8 +39,8 @@ const metadataParams = {
 	},
 	siteName: "Shadcn/UI Credit Card Input",
 	themeColor: "#000",
-	url: "https://credit-card-input.vercel.app",
-	metabase: new URL("https://credit-card-input.vercel.app"),
+	url: "https://shadcn-credit-card-input.vercel.app",
+	metabase: new URL("https://shadcn-credit-card-input.vercel.app"),
 	keywords: ["credit card input", "shadcn credit card input", "shadcn/ui credit card input", "shadcn", "ui", "credit", "card", "input", "shadcn/ui", "shadcn/ui credit", "shadcn/ui credit card", "shadcn/ui credit card input component", "react credit card input", "nextjs credit card input", "nextjs", "vercel credit card input", "vercel credit card", "vercel credit card component", "react", "react component"],
 	twitter: {
 		card: "summary_large_image",
